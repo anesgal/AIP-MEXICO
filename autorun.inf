@@ -1,0 +1,4 @@
+[autorun]
+open=AutoRun.exe index.html
+label=eAIP
+icon=seneam.ico

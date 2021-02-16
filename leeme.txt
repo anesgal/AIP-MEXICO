@@ -1,0 +1,38 @@
+Hola te dejamos unos pasos sencillos para que puedas visualizar el manual PIA en su formato digital.
+
+1.- Por default el DVD viene con un autorun el cual al ingresar el DVD en tu unidad de disco tendra que ejecutarlo 
+automaticamente.  Cabe Recalcar que esta opcion solo funciona si la computadora tiene la funcion de correr los DVD de 
+manera Automatica.
+
+2.- En caso de no contar con la opcion de ejecucion automatica deberas ingresar a traves del Archivo llamado 
+Index.html , el cual se encuentra en raiz del DVD .
+
+
+3.- Para su correcta visualizacion es necesario instalar las fuentes que vienen en el DVD o al descargarlas desde el 
+Navegador.
+
+Para ello es necesario seguir los siguientes pasos:
+
+
+A. Para abrir Fuentes, haga clic en el botón Inicio, en Panel de control, en Apariencia y personalización y, a continuación, en Fuentes. 
+
+
+B .Haga clic en Archivo y, a continuación, en Instalar nueva fuente.
+
+Si no ve el menú Archivo, presione ALT.
+
+
+C.En el cuadro de diálogo Agregar fuentes, en Unidades, haga clic en la unidad donde se encuentra la fuente que desea instalar.
+
+
+D.En Carpetas, haga doble clic en la carpeta que contiene las fuentes que desea agregar.
+
+
+E.En Lista de fuentes, haga clic en la fuente que desea agregar y, a continuación, haga clic en Instalar.
+
+
+
+
+
+
+
