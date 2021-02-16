@@ -1,0 +1,42 @@
+.titulo-secciones{
+	color: #3f59e4;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+.table{
+	
+}
+
+	.table tr td a{
+		color: #868686;
+	}
+	
+	.table tr td a:hover{
+		color: red;
+	}
+	
+	.table tr td i{
+		margin-right: 10px;
+	}
+
+	.table tr td:first-child{
+		border-right: 5px solid white;
+	}
+	
+.subcategoria{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	background: #eaeaea;
+}
+
+	.subcategoria li{
+		margin: 0px;
+		padding: 0px;
+	}
+	
+	.subcategoria li a{
+		padding: 6px 10px;
+		font-size: 11px;
+	}
